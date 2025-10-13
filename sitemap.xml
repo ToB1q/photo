@@ -1,0 +1,31 @@
+xml
+     <urlset xmlns="http://sanya12aaa.temp.swtest.ru/Безик/product/sitemap/0.9">
+       <url>
+         <loc>https://sanya12aaa.temp.swtest.ru/Безик/product/index.html</loc>
+         <lastmod>2025-10-07</lastmod>
+         <changefreq>daily</changefreq>
+         <priority>1.0</priority>
+       </url>
+
+        <url>
+         <loc>https://sanya12aaa.temp.swtest.ru/Безик/product/info.html</loc>
+         <lastmod>2025-10-07</lastmod>
+         <changefreq>monthly</changefreq>
+         <priority>0.8</priority>
+       </url>
+
+<url>
+         <loc>https://sanya12aaa.temp.swtest.ru/Безик/product/price.html</loc>
+         <lastmod>2025-10-07</lastmod>
+         <changefreq>monthly</changefreq>
+         <priority>0.8</priority>
+       </url>
+
+<url>
+         <loc>https://sanya12aaa.temp.swtest.ru/Безик/product/contacts.html</loc>
+         <lastmod>2025-10-07</lastmod>
+         <changefreq>monthly</changefreq>
+         <priority>0.8</priority>
+       </url>
+       <!-- Другие страницы -->
+     </urlset>
