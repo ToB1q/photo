@@ -17,7 +17,7 @@ body {
     justify-content: center;
 }
 .first_img img{
-    width: 100%;
+    width: 1335px;
     height: 700px;
 }
 nav {
@@ -61,3 +61,4 @@ nav {
     height: auto;
     display: block;
 }
+
